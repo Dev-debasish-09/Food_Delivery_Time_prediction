@@ -5,7 +5,7 @@ The Food Delivery Time Prediction Model aims to estimate the time required for f
 ## Methodology
 
 <p align="center">
-  <img src="Food_Delivery_Time_prediction/Methodology.png" alt="Project Schema" width="800"/>
+  <img "Food_Delivery_Time_prediction/Methodology.png" alt="Project Schema" width="800"/>
 </p>
 
 
