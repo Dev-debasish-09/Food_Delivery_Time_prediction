@@ -2,12 +2,6 @@
 ## Project Overview
 The Food Delivery Time Prediction Model aims to estimate the time required for food to be delivered to customers accurately. By providing precise delivery time predictions, the model enhances customer experience, optimizes delivery logistics, and improves overall operational efficiency for food delivery platforms.
 
-## Methodology
-
-<p align="center">
-  <img "Food_Delivery_Time_prediction/Methodology.png" alt="Project Schema" width="800"/>
-</p>
-
 
 
 ### a) Data Collection
@@ -97,8 +91,6 @@ To run the deployed application, follow these steps:
 
 2. Run the Application: Navigate to the project directory and run the following command in the terminal:
   ```streamlit run main.py```
-
-![Deployment]([https://github.com/Kaushik-Puttaswamy/Food-Delivery-Time-Prediction-Using-Machine-Learning/blob/main/Deployment.png](https://github.com/Dev-debasish-09/Food_Delivery_Time_prediction/blob/main/Screenshot%202025-08-15%20181239.png))
 
 ## Results and Evaluation Criteria
 • Best-Performing Model: XGBoost
