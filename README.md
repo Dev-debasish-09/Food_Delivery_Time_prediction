@@ -3,7 +3,11 @@
 The Food Delivery Time Prediction Model aims to estimate the time required for food to be delivered to customers accurately. By providing precise delivery time predictions, the model enhances customer experience, optimizes delivery logistics, and improves overall operational efficiency for food delivery platforms.
 
 ## Methodology
-![Methodology]([Food_Delivery_Time_prediction/Methodology.png])
+
+<p align="center">
+  <img src="Food_Delivery_Time_prediction/Methodology.png" alt="Project Schema" width="800"/>
+</p>
+
 
 
 ### a) Data Collection
