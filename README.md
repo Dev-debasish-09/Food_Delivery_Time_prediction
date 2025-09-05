@@ -5,6 +5,7 @@ The Food Delivery Time Prediction Model aims to estimate the time required for f
 ## Methodology
 ![Methodology]([Food_Delivery_Time_prediction/Methodology.png])
 
+
 ### a) Data Collection
 • Gathered the food delivery dataset from the provided data source and The dataset used for this project is located in the dataset folder and includes order details, location, city, delivery person information, weather conditions, and actual delivery times.
 
